@@ -1,0 +1,6 @@
+Flask
+tweepy
+TextBlob
+geopandas
+shapely
+folium
